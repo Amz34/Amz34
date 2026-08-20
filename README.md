@@ -1,35 +1,37 @@
-# 👋 Aamir Zahran — Full-Stack Developer
+# 👋 Aamir Zahran — I Build AI That Works While You Sleep
 
-**Software Developer | Full-Stack Engineer** — building scalable web applications, AI-powered solutions, and business automation tools.
+**Full-Stack Developer | AI Automation Engineer** — I turn manual business processes into always-on AI systems. 24/7 agents, bots, and pipelines that run on *free* infrastructure.
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![AI](https://img.shields.io/badge/AI-LLM%20Automation-purple) ![Cloud](https://img.shields.io/badge/Cloud-Oracle%20Always--Free-orange) ![Status](https://img.shields.io/badge/Status-Building%20in%20public-success)
+
+## 🚀 Featured — Live, Production-Tested Projects
+
+| Repo | What it does | Why it matters |
+|---|---|---|
+| [**selfhosted-agent-stack**](https://github.com/Amz34/selfhosted-agent-stack) | Run a 24/7 AI agent (Hermes + Telegram + WhatsApp) on **free** Oracle Cloud | Your own AI ops center for ~$0-5/mo — scripts, watchdogs, hard-won lessons |
+| [**linkedin-autopilot**](https://github.com/Amz34/linkedin-autopilot) | AI drafts LinkedIn posts, you approve, it publishes — profile + Pages | Grow on LinkedIn without the daily grind. Local-first, zero SaaS fees |
+| [**bsky-autopilot**](https://github.com/Amz34/bsky-autopilot) | AI-crafted Bluesky posts from your terminal | Consistent posting on autopilot — the growth lever everyone skips |
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, modern responsive UI
-**Backend:** Python, Node.js, REST APIs, server-side automation
-**AI & Automation:** LLM integrations, Telegram/WhatsApp bots, AI-assisted workflows
-**Cloud & DevOps:** Netlify, Oracle Cloud, Linux servers, CI/CD basics, Git/GitHub
-
-## 🚀 Projects
-
-### 🇸🇦 Luxe Wave KSA — Hospitality Supply
-KSA hospitality-supply business platform — web presence, business automation, and customer-facing digital tools for the Saudi hospitality market.
-
-### 🤖 Sanad — AI Assistant Services
-Client AI-assistant setup service: custom Telegram bots, websites, and monitoring retainers — helping businesses automate customer interaction with AI.
+- **AI & Automation:** LLM integrations, Telegram/WhatsApp bots, autonomous agents, AI-assisted content pipelines
+- **Backend:** Python, Node.js, REST APIs, server-side automation
+- **Frontend:** HTML, CSS, JavaScript, React, modern responsive UI
+- **Cloud & DevOps:** Oracle Cloud, Netlify, Linux servers, Git/GitHub, CI/CD basics
 
 ## 💼 What I Do
 
-- Full-stack web development — from landing pages to functional business apps
-- AI integration — chatbots, voice notes, multi-language support, automated workflows
-- Business automation — turning manual processes into always-on digital systems
-- Cloud deployment — hosting, domains, monitoring, and maintenance
+- **AI agents & bots** — customer-facing Telegram/WhatsApp bots with monitoring retainers
+- **Business automation** — turning manual processes into always-on digital systems
+- **Full-stack web** — from landing pages to functional business apps
+- **Cloud deployment** — hosting, domains, monitoring, maintenance
 
-## 📫 Contact
+## 🤝 Let's Build
 
 - **Email:** aamir1zahran@gmail.com
 - **Location:** Global (KSA focus)
-- **Portfolio:** [amz34.github.io](https://amz34.github.io) *(coming soon)*
+- Open to: AI integration, automation pipelines, web development, and agent infrastructure projects
 
 ---
 
-*Open to collaboration on web development, AI integration, and automation projects.*
+*⭐ Star the repos if they save you time — and let's talk if you want your business on autopilot too.*
