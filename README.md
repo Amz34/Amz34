@@ -8,9 +8,11 @@
 
 | Repo | What it does | Why it matters |
 |---|---|---|
+| [**hermes-slack-agents**](https://github.com/Amz34/hermes-slack-agents) | Give every client its own AI agent in Slack — one gateway, per-client bots, isolated memory | Private multi-agent ops for agencies: each client gets a bot, zero SaaS fees, self-hosted |
 | [**selfhosted-agent-stack**](https://github.com/Amz34/selfhosted-agent-stack) | Run a 24/7 AI agent (Hermes + Telegram + WhatsApp) on **free** Oracle Cloud | Your own AI ops center for ~$0-5/mo — scripts, watchdogs, hard-won lessons |
 | [**linkedin-autopilot**](https://github.com/Amz34/linkedin-autopilot) | AI drafts LinkedIn posts, you approve, it publishes — profile + Pages | Grow on LinkedIn without the daily grind. Local-first, zero SaaS fees |
 | [**bsky-autopilot**](https://github.com/Amz34/bsky-autopilot) | AI-crafted Bluesky posts from your terminal | Consistent posting on autopilot — the growth lever everyone skips |
+| [**voice-clone-assistant**](https://github.com/Amz34/voice-clone-assistant) | Clone your voice in 30s — multilingual AI voice assistant, free on Colab | AI voice agents that sound like you — TTS + STT + LLM in one notebook |
 
 ## 🛠️ Tech Stack
 
