@@ -1,4 +1,4 @@
-# 👋 Aamir Zahran — I Build AI That Works While You Sleep
+# 👋 Aamir Zameer — I Build AI That Works While You Sleep
 
 **Full-Stack Developer | AI Automation Engineer** — I turn manual business processes into always-on AI systems. 24/7 agents, bots, and pipelines that run on *free* infrastructure.
 
