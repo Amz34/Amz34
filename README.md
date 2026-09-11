@@ -10,6 +10,8 @@
 
 **[→ Try AI Can Run in your browser](https://amz34.github.io/ai-can-run/)** · **[→ Personal site](https://amz34.github.io)**
 
+> 🔧 **Curated list:** [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) — 135 live-checked self-hostable building blocks for AI agents (frameworks, memory, MCP servers, RAG, local inference, evals, free-tier infra).
+
 ## 🚀 Featured — live, production-tested
 
 | Repo | What it does | Why it matters |
