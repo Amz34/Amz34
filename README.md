@@ -8,9 +8,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Amz34?tab=followers"><img src="https://img.shields.io/github/followers/Amz34?label=Follow%20%40Amz34&style=social" /></a>
+  <a href="https://github.com/Amz34"><img src="https://img.shields.io/github/stars/Amz34?label=Total%20Stars&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Amz34&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bsky.app/profile/amz34.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://github.com/Amz34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
