@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Aamir Zameer (Amz) 👋
+  Hi, I'm Aamir Zameer (Az) 👋
 </h1>
 
 <p align="center">
