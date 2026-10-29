@@ -11,6 +11,7 @@
   <a href="https://github.com/Amz34?tab=followers"><img src="https://img.shields.io/github/followers/Amz34?label=Follow%20%40Amz34&style=social" /></a>
   <a href="https://github.com/Amz34"><img src="https://img.shields.io/github/stars/Amz34?label=Total%20Stars&style=social" /></a>
   <img src="https://komarev.com/ghpvc/?username=Amz34&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://hub.xerj.org/contributors/Amz34"><img src="https://hub.xerj.org/contributors/Amz34/badge.svg" alt="XERJ Corpus Hub Contributor" /></a>
 </p>
 
 <p align="center">
