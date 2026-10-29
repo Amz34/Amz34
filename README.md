@@ -28,9 +28,9 @@
 
 | Collection | Focus Domain | Highlights & Essential Repos |
 |---|---|---|
-| ⚡ **[Autonomous Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure)** | Self-Hosted Fleets & Watchdogs | [selfhosted-agent-stack](https://github.com/Amz34/selfhosted-agent-stack) · [hermes-slack-agents](https://github.com/Amz34/hermes-slack-agents) · [multi-agent-research-pipeline](https://github.com/Amz34/multi-agent-research-pipeline) |
-| 🛡️ **[Zero-Token & Data Engines](https://github.com/Amz34/az-zero-token-data-engine)** | Tabular Analytics & Egress Control | [az-zero-token-data-engine](https://github.com/Amz34/az-zero-token-data-engine) · [antigravity-zero-token-suite](https://github.com/Amz34/antigravity-zero-token-suite) · [zeroegress](https://github.com/Amz34/zeroegress) |
-| 🤖 **[Edge Inference & Browser AI](https://github.com/Amz34/ai-can-run)** | Client-Side VRAM & Voice Portfolios | [ai-can-run](https://github.com/Amz34/ai-can-run) · [voice-portfolio](https://github.com/Amz34/voice-portfolio) · [fire-smoke-watch](https://github.com/Amz34/fire-smoke-watch) |
+| ⚡ **[Autonomous Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure)** | Self-Hosted Fleets & Watchdogs | `selfhosted-agent-stack` · `hermes-slack-agents` · [multi-agent-research-pipeline](https://github.com/Amz34/multi-agent-research-pipeline) |
+| 🛡️ **Zero-Token & Data Engines** | Tabular Analytics & Egress Control | `az-zero-token-data-engine` · `antigravity-zero-token-suite` · [zeroegress](https://github.com/Amz34/zeroegress) |
+| 🤖 **Edge Inference & Browser AI** | Client-Side VRAM & Voice Portfolios | `ai-can-run` · [voice-portfolio](https://github.com/Amz34/voice-portfolio) · [fire-smoke-watch](https://github.com/Amz34/fire-smoke-watch) |
 
 ---
 

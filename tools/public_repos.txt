@@ -1,26 +1,33 @@
-# Allowlist of repositories that may be linked from the profile README.
-# Every github.com/Amz34/<repo> link in README.md must appear here, so a
-# private repository (which 404s for visitors) can never be featured again.
-# Client-branded repositories are deliberately absent to keep brands separate.
-# Refresh the candidate set with:
-#   gh repo list Amz34 --limit 200 --json name,isPrivate,isFork \
-#     --jq '[.[]|select(.isPrivate==false and .isFork==false)]|.[].name' | sort
-amz34
-amz34.github.io
+Amz34
+Amz34.github.io
+Luxewave-Ksa_Hospitality
 agent-operating-model
 agentic-ai-field-guide
+agentic-sdlc-pipeline
 ai-can-run
 ai-data-analyst
+akv-cache-engine
+antigravity-zero-token-suite
 archivepilot
 awesome-agent-infrastructure
+az-zero-token-data-engine
+azksa-links
 beyond-grok-bot
 bsky-autopilot
+dsh-our-free-model
+enterprise-cloud-ai-coe
 fire-smoke-watch
+ghostvault
 graphwright
+harnessopt
 hermes-slack-agents
+imaa-kiosk
+lazydev
 linkedin-autopilot
 multi-agent-research-pipeline
+openui-generative-agent
 rekit
+sanad-web-auditor
 sap-mcp
 selfhosted-agent-stack
 typed-decision-layer
