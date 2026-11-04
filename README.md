@@ -38,11 +38,20 @@
 
 | Production Suite | Core Architecture | Impact & Savings |
 |---|---|---|
+| [**pb (Self-Refining AI Engine)**](https://gist.github.com/Amz34/8f9d55652893c5594a01eaf4431dc78e) | Autonomous Fail / Fix / Repeat execution loop synthesizing NeurIPS Self-Refine & Nevasini strategy distillation with AST sandboxing. | **+100% Reliability Lift** · 0% Token Burn on Recurring Bugs |
+| [**awesome-agent-infrastructure**](https://github.com/Amz34/awesome-agent-infrastructure) | Live-checked ecosystem index of production-grade, self-hostable building blocks for AI agents & LLM workloads. | Production fleet blueprint · Free Cloud Deploy |
+| [**mcp-router**](https://github.com/Amz34/mcp-router) | Sub-millisecond dynamic MCP router, scope isolator & token containment engine for AI agents. | **88–100% Tool Context Cut** · Fast Dispatch |
+| [**diskopt**](https://github.com/Amz34/diskopt) | Lightweight, zero-dependency storage optimization CLI & crash-proof SRE guardrail engine for Linux & cloud VMs. | Autonomous Disk & Swap Defense · Zero Outages |
+| [**zeroegress**](https://github.com/Amz34/zeroegress) | Local-only confidential document AI: socket-level egress jail, sensitivity gate, and per-client encrypted vaults. | 100% Air-Gapped · Sovereign Enterprise AI |
 | [**az-zero-token-data-engine**](https://github.com/Amz34/az-zero-token-data-engine) | Local deterministic Pandas/OpenPyXL tabular engine. Compresses 50k+ rows into statistical micro-envelopes (<300 tokens). | **98% LLM Token Cut** · Zero Enterprise Data Leak |
 | [**antigravity-zero-token-suite**](https://github.com/Amz34/antigravity-zero-token-suite) | Production edge agent runtime on Google Antigravity + Gemini Flash. Offloads AST & logs to local POSIX compute. | **85%+ API Burn Reduction** · Free Linux Execution |
 | [**ai-can-run**](https://github.com/Amz34/ai-can-run) | In-browser hardware detection and VRAM math engine ranking open models (Chat, Code, Vision). | Zero install · Pure client-side inference check |
 | [**selfhosted-agent-stack**](https://github.com/Amz34/selfhosted-agent-stack) | 24/7 crash-proof agent ops on free-tier cloud: watchdog daemons, zram allocation, process reaping. | Production uptime at **$0–$5/mo** running cost |
 | [**hermes-slack-agents**](https://github.com/Amz34/hermes-slack-agents) | Multi-tenant Slack AI agent gateway with isolated memory, private tokens, and automated onboarding. | Agency-scale fleet deployment · 0 SaaS lock-in |
+
+<p align="center">
+  📋 <b>Complete Ecosystem Manifest:</b> <a href="https://pastebin.com/6sH3kC7b">View All 50 Repositories on Pastebin</a>
+</p>
 
 ---
 
