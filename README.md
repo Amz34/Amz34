@@ -28,8 +28,8 @@
 
 | Collection | Focus Domain | Highlights & Essential Repos |
 |---|---|---|
-| ⚡ **[Autonomous Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure)** | Self-Hosted Fleets & Watchdogs | `selfhosted-agent-stack` · `hermes-slack-agents` · [multi-agent-research-pipeline](https://github.com/Amz34/multi-agent-research-pipeline) |
-| 🛡️ **Zero-Token & Data Engines** | Tabular Analytics & Egress Control | `az-zero-token-data-engine` · `antigravity-zero-token-suite` · [zeroegress](https://github.com/Amz34/zeroegress) |
+| ⚡ **Autonomous Agent Infrastructure** | Self-Hosted Fleets & Watchdogs | `selfhosted-agent-stack` · `hermes-slack-agents` · [multi-agent-research-pipeline](https://github.com/Amz34/multi-agent-research-pipeline) |
+| 🛡️ **Zero-Token & Data Engines** | Tabular Analytics & Egress Control | `az-zero-token-data-engine` · `antigravity-zero-token-suite` · `zeroegress` |
 | 🤖 **Edge Inference & Browser AI** | Client-Side VRAM & Voice Portfolios | `ai-can-run` · [voice-portfolio](https://github.com/Amz34/voice-portfolio) · [fire-smoke-watch](https://github.com/Amz34/fire-smoke-watch) |
 
 ---

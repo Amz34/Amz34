@@ -1,12 +1,11 @@
-Amz34
-Amz34.github.io
-Luxewave-Ksa_Hospitality
 agent-operating-model
 agentic-ai-field-guide
 agentic-sdlc-pipeline
 ai-can-run
 ai-data-analyst
 akv-cache-engine
+Amz34
+Amz34.github.io
 antigravity-zero-token-suite
 archivepilot
 awesome-agent-infrastructure
@@ -14,6 +13,7 @@ az-zero-token-data-engine
 azksa-links
 beyond-grok-bot
 bsky-autopilot
+diskopt
 dsh-our-free-model
 enterprise-cloud-ai-coe
 fire-smoke-watch
@@ -24,6 +24,8 @@ hermes-slack-agents
 imaa-kiosk
 lazydev
 linkedin-autopilot
+Luxewave-Ksa_Hospitality
+mcp-router
 multi-agent-research-pipeline
 openui-generative-agent
 rekit
