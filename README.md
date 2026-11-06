@@ -76,15 +76,17 @@
 
 ---
 
-<h2 align="center">📊 Real-Time GitHub Intelligence & Activity</h2>
+<h2 align="center">📊 Real-Time GitHub Intelligence & Continuous Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amz34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amz34&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/Amz34">
+    <img src="https://ghchart.rshah.org/216e39/Amz34" alt="Aamir Zameer GitHub Heatmap" width="98%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amz34&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Amz34&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amz34&theme=tokyonight" width="48%" alt="GitHub Summary Details" />
 </p>
 
 ---
