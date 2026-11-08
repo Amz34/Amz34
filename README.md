@@ -8,10 +8,16 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⚡_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
+  <a href="https://github.com/Amz34?tab=followers"><img src="https://img.shields.io/github/followers/Amz34?label=Followers&style=for-the-badge&color=2ea44f" /></a>
+  <a href="https://github.com/Amz34"><img src="https://img.shields.io/github/stars/Amz34?label=Total%20Stars&style=for-the-badge&color=yellow" /></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-Aamir_Zameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Amz34?tab=repositories"><img src="https://img.shields.io/badge/GitHub-56+_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Production_Portfolio-amz34.github.io-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://pastebin.com/6sH3kC7b"><img src="https://img.shields.io/badge/Pastebin-Complete_50+_Manifest-003366?style=for-the-badge&logo=pastebin&logoColor=white" /></a>
   <a href="https://hub.xerj.org/contributors/Amz34"><img src="https://hub.xerj.org/contributors/Amz34/badge.svg" alt="XERJ Corpus Hub Contributor" /></a>
 </p>
 
@@ -38,6 +44,10 @@ Available for **high-leverage advisory, fractional CTO/FDE mandates, and end-to-
 | [**az-zero-token-data-engine**](https://github.com/Amz34/az-zero-token-data-engine) | Local deterministic Pandas/OpenPyXL tabular engine. Compresses 50k+ rows into statistical micro-envelopes (<300 tokens). | **98% LLM Token Cut** · Zero Enterprise Data Leak |
 | [**primavera-p6-ai-orchestrator**](https://github.com/Amz34/leetcode-solutions) | Automated 5-level WBS synthesis, 14-point DCMA audit validation, and budget balancing for capital megaprojects. | **10 Mins vs 7 Days** Turnaround · 100% Audit Compliance |
 
+<p align="center">
+  📋 <b>Complete Ecosystem Architecture Manifest:</b> <a href="https://pastebin.com/6sH3kC7b"><b>View All 50+ Production Repositories on Pastebin</b></a>
+</p>
+
 ---
 
 ### 🎯 Algorithmic Discipline & Problem Solving (LeetCode & Core CS)
@@ -51,6 +61,11 @@ Engineered on deterministic algorithmic fundamentals. Polyglot execution across 
   <a href="https://github.com/Amz34/leetcode-solutions">
     <img src="https://img.shields.io/badge/LeetCode_Vault-Polyglot_Automated_Sync-00B8A3?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/⚡_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⭐_Star_&_Follow_GitHub-Amz34-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </p>
 
 - **Algorithmic Vault**: Maintained at [`leetcode-solutions`](https://github.com/Amz34/leetcode-solutions) with 24/7 automated continuous synchronization.
@@ -81,6 +96,8 @@ Az. Consultancy provides high-impact engineering leadership and fractional archi
 
 **Direct Channels:**
 - **LinkedIn:** [linkedin.com/in/aamirzameer](https://linkedin.com/in/aamirzameer)
+- **GitHub:** [github.com/Amz34](https://github.com/Amz34)
 - **LeetCode:** [leetcode.com/u/amz34](https://leetcode.com/u/amz34/)
 - **Engineering Showcase:** [amz34.github.io](https://amz34.github.io)
+- **Full Architecture Manifest:** [pastebin.com/6sH3kC7b](https://pastebin.com/6sH3kC7b)
 - **Confidential Inquiries:** `aamir1zahran@gmail.com`
