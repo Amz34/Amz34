@@ -35,6 +35,7 @@ Available for **high-leverage advisory, fractional CTO/FDE mandates, and end-to-
 
 | Architecture | Core Innovation | Production Impact & Metrics |
 |---|---|---|
+| [**enterprise-unslop-engine**](https://github.com/Amz34/enterprise-unslop-engine) | Enterprise Zero-Slop UI Craft Governance, OASIS SARIF v2.1 CI/CD Gate & AgentPilot Dual-Model Hill-Climbing Search. | **100% Slop-Free UI** · Dual-Model Optimization · Automated SARIF Security Gate |
 | [**pb (Self-Refining Execution Loop)**](https://gist.github.com/Amz34/8f9d55652893c5594a01eaf4431dc78e) | Autonomous Fail / Fix / Repeat execution loop synthesizing NeurIPS Self-Refine & Nevasini strategy distillation with AST POSIX sandboxing. | **+100% Reliability Lift** · 0% Token Burn on Recurring Bugs |
 | [**mcp-router**](https://github.com/Amz34/mcp-router) | Sub-millisecond dynamic MCP router, scope isolator & token containment engine for distributed agent meshes. | **88–100% Tool Context Cut** · Instant Tool Resolution |
 | [**akv-cache-engine**](https://github.com/Amz34/akv-cache-engine) | Engine-level cache engineering for multi-turn agents: static prefix pinning & rolling drop memory compaction. | **100% Prefix Cache Hit** · 88.4% Token Reduction |
