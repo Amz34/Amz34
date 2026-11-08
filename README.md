@@ -3,25 +3,25 @@
 </h1>
 
 <p align="center">
-  <b>Principal AI Architect & Tech Recruiter · Systems SRE · Enterprise Consultant</b><br>
+  <b>Principal AI Architect & Enterprise Consultant · Systems SRE · Forward Deployed Engineer</b><br>
   <i>Deploying Autonomous Agent Meshes · Sourcing Elite Full-Stack & AI Contractors Worldwide · SAR 50M+ Systems Delivered</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⚡_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
-  <a href="https://github.com/Amz34?tab=repositories"><img src="https://img.shields.io/badge/Ecosystem-50K%2B_Active_Community-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ecosystem Community" /></a>
-  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/Network-55K%2B_Impressions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network Reach" /></a>
+  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/aamir_zameer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:aamir1zahran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-090A0F?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/az-consultants-org/az-consultants-hub/issues/new?template=audit_intake.yml"><img src="https://img.shields.io/badge/Book_Diagnostic-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-Aamir_Zameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Production_Portfolio-amz34.github.io-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://pastebin.com/6sH3kC7b"><img src="https://img.shields.io/badge/Pastebin-Complete_50+_Manifest-003366?style=for-the-badge&logo=pastebin&logoColor=white" /></a>
-  <a href="https://hub.xerj.org/contributors/Amz34"><img src="https://hub.xerj.org/contributors/Amz34/badge.svg" alt="XERJ Corpus Hub Contributor" /></a>
+  <a href="https://github.com/Amz34"><img src="https://github-profile-trophy.vercel.app/?username=Amz34&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies" /></a>
 </p>
 
 ---
+
 
 ### 🏛️ Executive Summary (For C-Suite, Enterprise Buyers & Talent Partners)
 
