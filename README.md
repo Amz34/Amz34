@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⚡_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
+  <a href="https://github.com/Amz34?tab=repositories"><img src="https://img.shields.io/badge/Ecosystem-50K%2B_Active_Community-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ecosystem Community" /></a>
+  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/Network-55K%2B_Impressions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network Reach" /></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/aamir_zameer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:aamir1zahran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,7 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amz34"><img src="https://github-profile-trophy.vercel.app/?username=Amz34&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Trophies" /></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amz34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amz34 GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amz34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
