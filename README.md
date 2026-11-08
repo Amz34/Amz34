@@ -55,20 +55,23 @@ Available for **high-leverage advisory, fractional CTO/FDE mandates, and end-to-
 Engineered on deterministic algorithmic fundamentals. Polyglot execution across **Python, Rust, C++, and TypeScript**:
 
 <p align="center">
-  <a href="https://leetcode.com/u/amz34/">
-    <img src="https://leetcard.jacoblin.cool/amz34?theme=dark&font=Ubuntu&ext=activity" alt="Amz34 LeetCode Stats" width="52%" />
+  <a href="https://pastebin.com/6sH3kC7b">
+    <img src="https://img.shields.io/badge/Architectural_Manifest-50%2B_Production_Repositories-003366?style=for-the-badge&logo=pastebin&logoColor=white" alt="Pastebin 50+ Production Repositories" />
   </a>
   <a href="https://github.com/Amz34/leetcode-solutions">
-    <img src="https://img.shields.io/badge/LeetCode_Vault-Polyglot_Automated_Sync-00B8A3?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode_Vault-Automated_Continuous_Sync-00B8A3?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions Vault" />
+  </a>
+  <a href="https://leetcode.com/u/amz34/">
+    <img src="https://img.shields.io/badge/LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/⚡_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⭐_Star_&_Follow_GitHub-Amz34-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/⚡_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
 </p>
 
-- **Algorithmic Vault**: Maintained at [`leetcode-solutions`](https://github.com/Amz34/leetcode-solutions) with 24/7 automated continuous synchronization.
+- **Production Algorithmic Vault**: Maintained at [`leetcode-solutions`](https://github.com/Amz34/leetcode-solutions) with 24/7 automated continuous synchronization.
 - **Engineering Philosophy**: *"Never let an agent guess what deterministic code can verify."* Grounding LLMs in static AST verification, binary analysis, and sub-millisecond data structures.
 
 ---
