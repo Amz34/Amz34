@@ -47,6 +47,7 @@
 | [**zeroegress**](https://github.com/Amz34/zeroegress) | Local-only confidential document AI: socket-level egress jail, sensitivity gate, and per-client encrypted vaults. | 100% Air-Gapped · Sovereign Enterprise AI |
 | [**az-zero-token-data-engine**](https://github.com/Amz34/az-zero-token-data-engine) | Local deterministic Pandas/OpenPyXL tabular engine. Compresses 50k+ rows into statistical micro-envelopes (<300 tokens). | **98% LLM Token Cut** · Zero Enterprise Data Leak |
 | [**antigravity-zero-token-suite**](https://github.com/Amz34/antigravity-zero-token-suite) | Production edge agent runtime on Google Antigravity + Gemini Flash. Offloads AST & logs to local POSIX compute. | **85%+ API Burn Reduction** · Free Linux Execution |
+| [**leetcode-solutions**](https://github.com/Amz34/leetcode-solutions) | 24/7 stealth Chromium auto-sync daemon & polyglot algorithmic vault (Python, Rust, C++) with instant test verification. | **Unbreakable Algorithmic Streak** · Zero Cloudflare Blocks |
 | [**ai-can-run**](https://github.com/Amz34/ai-can-run) | In-browser hardware detection and VRAM math engine ranking open models (Chat, Code, Vision). | Zero install · Pure client-side inference check |
 | [**selfhosted-agent-stack**](https://github.com/Amz34/selfhosted-agent-stack) | 24/7 crash-proof agent ops on free-tier cloud: watchdog daemons, zram allocation, process reaping. | Production uptime at **$0–$5/mo** running cost |
 | [**hermes-slack-agents**](https://github.com/Amz34/hermes-slack-agents) | Multi-tenant Slack AI agent gateway with isolated memory, private tokens, and automated onboarding. | Agency-scale fleet deployment · 0 SaaS lock-in |
@@ -61,6 +62,8 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="40" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" />
@@ -87,6 +90,25 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amz34&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amz34&theme=tokyonight" width="48%" alt="GitHub Summary Details" />
+</p>
+
+---
+
+<h2 align="center">⚡ Algorithmic Dominance & Autonomous LeetCode Intelligence</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/amz34/">
+    <img src="https://leetcard.jacoblin.cool/amz34?theme=dark&font=Ubuntu&ext=activity" alt="Amz34 LeetCode Stats" width="52%" />
+  </a>
+  <a href="https://github.com/Amz34/leetcode-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amz34&repo=leetcode-solutions&theme=tokyonight" width="44%" alt="LeetCode Solutions Vault" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/Amz34/leetcode-solutions"><img src="https://img.shields.io/badge/Algorithmic_Vault-Polyglot_Solutions-00B8A3?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Amz34/leetcode-solutions/actions"><img src="https://img.shields.io/badge/Sync_Engine-Stealth_Chromium_24%2F7-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
