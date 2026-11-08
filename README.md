@@ -43,7 +43,9 @@ Available for **high-leverage advisory, fractional CTO/FDE mandates, and end-to-
 | [**diskopt**](https://github.com/Amz34/diskopt) | Lightweight, zero-dependency storage optimization CLI & crash-proof SRE guardrail engine for Linux & cloud VMs. | Autonomous Disk & Swap Defense · Zero Outages |
 | [**zeroegress**](https://github.com/Amz34/zeroegress) | Local-only confidential document AI: socket-level egress jail, sensitivity gate, and per-client encrypted vaults. | 100% Air-Gapped · Sovereign Enterprise AI |
 | [**az-zero-token-data-engine**](https://github.com/Amz34/az-zero-token-data-engine) | Local deterministic Pandas/OpenPyXL tabular engine. Compresses 50k+ rows into statistical micro-envelopes (<300 tokens). | **98% LLM Token Cut** · Zero Enterprise Data Leak |
-| [**primavera-p6-ai-orchestrator**](https://github.com/Amz34/leetcode-solutions) | Automated 5-level WBS synthesis, 14-point DCMA audit validation, and budget balancing for capital megaprojects. | **10 Mins vs 7 Days** Turnaround · 100% Audit Compliance |
+| [**deep-research-engine**](https://github.com/Amz34/deep-research-engine) | Autonomous AI research engine decomposing trending systems topics into publication-grade whitepapers. | **100% Autonomous Cycles** · Live HN & arXiv Real-Time Ingestion |
+| [**primavera-p6-ai-orchestrator**](https://github.com/Amz34/primavera-p6-ai-orchestrator) | Automated 5-level WBS synthesis, 14-point DCMA audit validation, and budget balancing for capital megaprojects. | **10 Mins vs 7 Days** Turnaround · 100% Audit Compliance |
+| [**leetcode-solutions**](https://github.com/Amz34/leetcode-solutions) | Automated 24/7 algorithmic solutions vault syncing LeetCode with Polyglot Python/C++/Rust testbenches. | **Multi-Language CI** · Continuous Headless Chromium Sync |
 
 <p align="center">
   📋 <b>Complete Ecosystem Architecture Manifest:</b> <a href="https://pastebin.com/6sH3kC7b"><b>View All 50+ Production Repositories on Pastebin</b></a>
