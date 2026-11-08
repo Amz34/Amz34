@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <b>Principal AI & Forward Deployed Systems Architect (FDE) · Systems SRE · Enterprise Consultant</b><br>
-  <i>Architecting Deterministic Autonomous Agent Meshes, Zero-Token Data Engines & Production Cloud Infrastructure (SAR 50M+ Systems Delivered)</i>
+  <b>Principal AI Architect & Tech Recruiter · Systems SRE · Enterprise Consultant</b><br>
+  <i>Deploying Autonomous Agent Meshes · Sourcing Elite Full-Stack & AI Contractors Worldwide · SAR 50M+ Systems Delivered</i>
 </p>
 
 <p align="center">
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⚡_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
-  <a href="https://github.com/Amz34?tab=followers"><img src="https://img.shields.io/github/followers/Amz34?label=Followers&style=for-the-badge&color=2ea44f" /></a>
-  <a href="https://github.com/Amz34"><img src="https://img.shields.io/github/stars/Amz34?label=Total%20Stars&style=for-the-badge&color=yellow" /></a>
+  <a href="https://github.com/Amz34?tab=repositories"><img src="https://img.shields.io/badge/Ecosystem-50K%2B_Active_Community-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ecosystem Community" /></a>
+  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/Network-55K%2B_Impressions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network Reach" /></a>
 </p>
 
 <p align="center">
