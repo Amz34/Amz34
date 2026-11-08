@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amz34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amz34 GitHub Stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amz34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://raw.githubusercontent.com/Amz34/Amz34/main/assets/github-stats.svg" alt="Aamir Zameer GitHub Stats" height="175" />
+  <img src="https://raw.githubusercontent.com/Amz34/Amz34/main/assets/languages-stats.svg" alt="Top Engineering Stacks" height="175" />
 </p>
 
 ---

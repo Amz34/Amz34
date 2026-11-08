@@ -1,0 +1,39 @@
+<svg width="350" height="195" viewBox="0 0 350 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70A5FD; }
+    .lang-name { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C8D3F5; }
+    .lang-pct { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #828BB8; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="349" height="194" fill="#16161e" stroke="#222436"/>
+  <text x="30" y="38" class="header">Top Core Stacks</text>
+
+  <!-- Progress bar -->
+  <g transform="translate(30, 55)">
+    <rect width="290" height="8" rx="4" fill="#222436"/>
+    <rect width="130" height="8" rx="4" fill="#3572A5"/>
+    <rect x="132" width="75" height="8" rx="4" fill="#DEA584"/>
+    <rect x="209" width="50" height="8" rx="4" fill="#3178C6"/>
+    <rect x="261" width="29" height="8" rx="4" fill="#F1E05A"/>
+  </g>
+
+  <g transform="translate(30, 90)">
+    <circle cx="5" cy="5" r="4" fill="#3572A5" />
+    <text x="20" y="9" class="lang-name">Python (AsyncIO / C-Ext)</text>
+    <text x="230" y="9" class="lang-pct">45.0%</text>
+  </g>
+  <g transform="translate(30, 115)">
+    <circle cx="5" cy="5" r="4" fill="#DEA584" />
+    <text x="20" y="9" class="lang-name">Rust (Systems / Tokio)</text>
+    <text x="230" y="9" class="lang-pct">26.0%</text>
+  </g>
+  <g transform="translate(30, 140)">
+    <circle cx="5" cy="5" r="4" fill="#3178C6" />
+    <text x="20" y="9" class="lang-name">TypeScript / Node.js</text>
+    <text x="230" y="9" class="lang-pct">18.0%</text>
+  </g>
+  <g transform="translate(30, 165)">
+    <circle cx="5" cy="5" r="4" fill="#F1E05A" />
+    <text x="20" y="9" class="lang-name">JavaScript &amp; POSIX Bash</text>
+    <text x="230" y="9" class="lang-pct">11.0%</text>
+  </g>
+</svg>

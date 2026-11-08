@@ -1,0 +1,31 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70A5FD; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C8D3F5; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #828BB8; }
+    .bold { font-weight: 700; }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="494" height="194" fill="#16161e" stroke="#222436"/>
+  <text x="30" y="38" class="header">Aamir Zameer (Amz34) Stats</text>
+  
+  <g transform="translate(30, 65)">
+    <circle cx="6" cy="6" r="4" fill="#C53B53" />
+    <text x="25" y="10" class="label">Total Stars Earned:</text>
+    <text x="210" y="10" class="stat bold">62</text>
+  </g>
+  <g transform="translate(30, 95)">
+    <circle cx="6" cy="6" r="4" fill="#FFC777" />
+    <text x="25" y="10" class="label">Total Commits (365d):</text>
+    <text x="210" y="10" class="stat bold">392+</text>
+  </g>
+  <g transform="translate(30, 125)">
+    <circle cx="6" cy="6" r="4" fill="#4FD6BE" />
+    <text x="25" y="10" class="label">Total Public Repos:</text>
+    <text x="210" y="10" class="stat bold">58</text>
+  </g>
+  <g transform="translate(30, 155)">
+    <circle cx="6" cy="6" r="4" fill="#82AAFF" />
+    <text x="25" y="10" class="label">Enterprise Grade:</text>
+    <text x="210" y="10" class="stat bold" fill="#4FD6BE">A+ (SRE Certified)</text>
+  </g>
+</svg>
