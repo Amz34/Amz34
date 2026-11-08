@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bsky.app/profile/amz34.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-00C49F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
@@ -30,6 +31,7 @@
 |---|---|---|
 | ⚡ **Autonomous Agent Infrastructure** | Self-Hosted Fleets & Watchdogs | `selfhosted-agent-stack` · `hermes-slack-agents` · [multi-agent-research-pipeline](https://github.com/Amz34/multi-agent-research-pipeline) |
 | 🛡️ **Zero-Token & Data Engines** | Tabular Analytics & Egress Control | `az-zero-token-data-engine` · `antigravity-zero-token-suite` · `zeroegress` |
+| 🧠 **Algorithmic Vault & Systems** | Polyglot Competitive Programming (Python, Rust, C++) | [leetcode-solutions](https://github.com/Amz34/leetcode-solutions) · [amz34 on LeetCode](https://leetcode.com/u/amz34/) |
 | 🤖 **Edge Inference & Browser AI** | Client-Side VRAM & Voice Portfolios | `ai-can-run` · [voice-portfolio](https://github.com/Amz34/voice-portfolio) · [fire-smoke-watch](https://github.com/Amz34/fire-smoke-watch) |
 
 ---
@@ -122,4 +124,4 @@ Az. Consultancy designs and operates resilient autonomous AI agent architectures
 - **Data Residency Compliance:** Private cloud/on-premise agent execution with strict socket-level egress jails.
 
 **Ready to optimize your enterprise architecture?**  
-[Book an Architecture Review with Az. Consultancy](https://linkedin.com/in/aamirzameer) · **Email:** `aamir1zahran@gmail.com`
+[Book an Architecture Review with Az. Consultancy](https://linkedin.com/in/aamirzameer) · **LeetCode:** [@amz34](https://leetcode.com/u/amz34/) · **Email:** `aamir1zahran@gmail.com`
