@@ -8,18 +8,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⚡_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
+  <a href="https://github.com/Amz34"><img src="https://img.shields.io/badge/%E2%9A%A1_Follow_%40Amz34-Get_Engineering_Releases-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Follow @Amz34 on GitHub" /></a>
   <a href="https://github.com/Amz34?tab=repositories"><img src="https://img.shields.io/badge/Ecosystem-50K%2B_Active_Community-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ecosystem Community" /></a>
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/Network-55K%2B_Impressions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Network Reach" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/aamir_zameer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:aamir1zahran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-090A0F?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/az-consultants-org/az-consultants-hub/issues/new?template=audit_intake.yml"><img src="https://img.shields.io/badge/Book_Diagnostic-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bsky.app/profile/amz34.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+  <a href="https://t.me/AzGem_Bot"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://amz34.github.io/azksa-links/"><img src="https://img.shields.io/badge/AZ_Links-111827?style=for-the-badge&logo=linktree&logoColor=white" alt="AZ Links" /></a>
+  <br />
+  <a href="mailto:aamir1zahran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-090A0F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://github.com/az-consultants-org/az-consultants-hub/issues/new?template=audit_intake.yml"><img src="https://img.shields.io/badge/Book_Diagnostic-238636?style=for-the-badge&logo=github&logoColor=white" alt="Book Diagnostic" /></a>
 </p>
 
 <p align="center">
@@ -69,17 +72,8 @@ Engineered on deterministic algorithmic fundamentals. Polyglot execution across 
   <a href="https://pastebin.com/6sH3kC7b">
     <img src="https://img.shields.io/badge/Architectural_Manifest-50%2B_Production_Repositories-003366?style=for-the-badge&logo=pastebin&logoColor=white" alt="Pastebin 50+ Production Repositories" />
   </a>
-  <a href="https://github.com/Amz34/leetcode-solutions">
-    <img src="https://img.shields.io/badge/LeetCode_Vault-Automated_Continuous_Sync-00B8A3?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions Vault" />
-  </a>
-  <a href="https://leetcode.com/u/amz34/">
-    <img src="https://img.shields.io/badge/LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FAmz34"><img src="https://img.shields.io/badge/⭐_Star_&_Follow_GitHub-Amz34-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/⚡_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
+  <a href="https://github.com/Amz34"><img src="https://img.shields.io/badge/%E2%AD%90_Star_%26_Follow_GitHub-Amz34-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/%E2%9A%A1_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
 </p>
 
 - **Production Algorithmic Vault**: Maintained at `Amz34/leetcode-solutions` with 24/7 automated continuous synchronization.
@@ -110,6 +104,9 @@ Az. Consultancy provides high-impact engineering leadership and fractional archi
 
 **Direct Channels:**
 - **LinkedIn:** [linkedin.com/in/aamirzameer](https://linkedin.com/in/aamirzameer)
+- **Bluesky:** [bsky.app/profile/amz34.bsky.social](https://bsky.app/profile/amz34.bsky.social)
+- **Telegram:** [t.me/AzGem_Bot](https://t.me/AzGem_Bot)
+- **AZ Links:** [amz34.github.io/azksa-links](https://amz34.github.io/azksa-links/)
 - **GitHub:** [github.com/Amz34](https://github.com/Amz34)
 - **LeetCode:** [leetcode.com/u/amz34](https://leetcode.com/u/amz34/)
 - **Engineering Showcase:** [amz34.github.io](https://amz34.github.io)

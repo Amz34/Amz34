@@ -29,17 +29,21 @@ import re
 import subprocess
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
 OWNER = "Amz34"
 LINK_RE = re.compile(r"\[[^\]]*\]\(\s*<?([^)\s>]+)>?\s*\)")
+A_HREF_RE = re.compile(r"<a[^>]+href=[\"']([^\"']+)[\"']", re.IGNORECASE)
 AUTOLINK_RE = re.compile(r"<(https?://[^>\s]+)>")
 IMG_SRC_RE = re.compile(r"<img[^>]+src=[\"']([^\"']+)[\"']", re.IGNORECASE)
 IMAGE_EXT_RE = re.compile(r"\.(?:png|jpe?g|gif|svg|webp|avif)$", re.IGNORECASE)
 AMZ_REPO_RE = re.compile(r"^https?://github\.com/" + OWNER + r"/([A-Za-z0-9_.-]+)", re.IGNORECASE)
 PLACEHOLDERS = ("TODO", "TBD", "FIXME", "XXX", "lorem ipsum")
 USER_AGENT = "Amz34-profile-check/1.0"
+# Hosts whose anti-bot WAF rejects non-browser urllib probes even when the page is live.
+BOT_WALLED_403_HOSTS = frozenset({"leetcode.com", "www.leetcode.com"})
 
 
 class InputError(Exception):
@@ -54,8 +58,9 @@ def read_text(path: Path) -> str:
 
 
 def extract_links(text: str) -> list[str]:
-    """Return markdown and autolink targets, in document order."""
+    """Return markdown, HTML anchor, autolink, and image targets in document order."""
     links = LINK_RE.findall(text)
+    links += A_HREF_RE.findall(text)
     links += AUTOLINK_RE.findall(text)
     links += IMG_SRC_RE.findall(text)
     return links
@@ -152,6 +157,14 @@ def live_problems(manifest: set[str]) -> list[str]:
     return problems
 
 
+def is_acceptable_external_status(url: str, status: int) -> bool:
+    """Return True when an external HTTP probe status is valid or a known WAF block."""
+    if status < 400 or status == 999:  # LinkedIn answers 999 to non-browsers
+        return True
+    host = (urllib.parse.urlparse(url).hostname or "").lower()
+    return status == 403 and host in BOT_WALLED_403_HOSTS
+
+
 def external_problems(text: str) -> list[str]:
     """Fetch every non-GitHub external URL and report a non-2xx/3xx status."""
     problems: list[str] = []
@@ -167,7 +180,7 @@ def external_problems(text: str) -> list[str]:
         except Exception as exc:  # network problems are reported, never ignored
             problems.append(f"could not fetch {url}: {exc.__class__.__name__}")
             continue
-        if status >= 400 and status != 999:  # LinkedIn answers 999 to non-browsers
+        if not is_acceptable_external_status(url, status):
             problems.append(f"external link returned HTTP {status}: {url}")
     return problems
 

@@ -11,17 +11,17 @@
   <g transform="translate(30, 65)">
     <circle cx="6" cy="6" r="4" fill="#C53B53" />
     <text x="25" y="10" class="label">Total Stars Earned:</text>
-    <text x="210" y="10" class="stat bold">62</text>
+    <text x="210" y="10" class="stat bold">94</text>
   </g>
   <g transform="translate(30, 95)">
     <circle cx="6" cy="6" r="4" fill="#FFC777" />
-    <text x="25" y="10" class="label">Total Commits (365d):</text>
-    <text x="210" y="10" class="stat bold">392+</text>
+    <text x="25" y="10" class="label">Contributions (365d):</text>
+    <text x="210" y="10" class="stat bold">1,102</text>
   </g>
   <g transform="translate(30, 125)">
     <circle cx="6" cy="6" r="4" fill="#4FD6BE" />
     <text x="25" y="10" class="label">Total Public Repos:</text>
-    <text x="210" y="10" class="stat bold">58</text>
+    <text x="210" y="10" class="stat bold">87</text>
   </g>
   <g transform="translate(30, 155)">
     <circle cx="6" cy="6" r="4" fill="#82AAFF" />

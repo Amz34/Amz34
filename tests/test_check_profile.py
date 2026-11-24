@@ -10,6 +10,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 import check_profile as cp  # noqa: E402
+import sync_stats as ss  # noqa: E402
 
 GOOD_README = """# Profile
 
@@ -24,9 +25,12 @@ GOOD_README = """# Profile
 
 
 class ExtractLinksTests(unittest.TestCase):
-    def test_extracts_markdown_autolink_and_image(self):
-        text = "[a](https://x.test) <https://y.test> <img src=\"assets/p.jpg\">"
-        self.assertEqual(cp.extract_links(text), ["https://x.test", "https://y.test", "assets/p.jpg"])
+    def test_extracts_markdown_html_anchor_autolink_and_image(self):
+        text = '[a](https://x.test) <a href="https://a.test">A</a> <https://y.test> <img src="assets/p.jpg">'
+        self.assertEqual(
+            cp.extract_links(text),
+            ["https://x.test", "https://a.test", "https://y.test", "assets/p.jpg"],
+        )
 
     def test_ignores_plain_text_urls(self):
         self.assertEqual(cp.extract_links("see https://x.test now"), [])
@@ -76,6 +80,12 @@ class CheckTests(unittest.TestCase):
         text = GOOD_README + "\n[again](https://github.com/Amz34/archivepilot)\n"
         problems = cp.check(text, self.root, self.manifest("archivepilot"))
         self.assertTrue(any("linked twice" in p for p in problems), problems)
+
+    def test_html_anchor_private_and_duplicate_are_reported(self):
+        text = GOOD_README + '\n<a href="https://github.com/Amz34/archivepilot">dup</a> <a href="https://github.com/Amz34/secret-repo">priv</a>\n'
+        problems = cp.check(text, self.root, self.manifest("archivepilot"))
+        self.assertTrue(any("linked twice" in p for p in problems), problems)
+        self.assertTrue(any("unlisted Amz34 repository" in p for p in problems), problems)
 
     def test_placeholder_is_reported(self):
         text = GOOD_README.replace("Local archive", "Local archive TODO")
@@ -148,6 +158,21 @@ class MainTests(unittest.TestCase):
             bad = GOOD_README.replace("https://github.com/Amz34/archivepilot", "https://github.com/Amz34/voice-clone-assistant")
             (root / "README.md").write_text(bad, encoding="utf-8")
             self.assertEqual(cp.main([str(root / "README.md"), "--manifest", "tools/public_repos.txt"]), 1)
+
+
+class ExternalAndSyncTests(unittest.TestCase):
+    def test_external_status_policy(self):
+        self.assertTrue(cp.is_acceptable_external_status("https://bsky.app/profile/amz34.bsky.social", 200))
+        self.assertTrue(cp.is_acceptable_external_status("https://linkedin.com/in/aamirzameer", 999))
+        self.assertTrue(cp.is_acceptable_external_status("https://leetcode.com/u/amz34/", 403))
+        self.assertFalse(cp.is_acceptable_external_status("https://example.com/private", 403))
+        self.assertFalse(cp.is_acceptable_external_status("https://example.com/missing", 404))
+
+    def test_render_stats_svg_formats_live_counts(self):
+        svg = ss.render_stats_svg(stars=94, contributions=1102, public_repos=87)
+        self.assertIn("94", svg)
+        self.assertIn("1,102", svg)
+        self.assertIn("87", svg)
 
 
 if __name__ == "__main__":
