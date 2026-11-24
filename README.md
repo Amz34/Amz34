@@ -52,7 +52,7 @@ Available for **high-leverage advisory, fractional CTO/FDE mandates, and end-to-
 | [**az-zero-token-data-engine**](https://github.com/Amz34/az-zero-token-data-engine) | Local deterministic Pandas/OpenPyXL tabular engine. Compresses 50k+ rows into statistical micro-envelopes (<300 tokens). | **98% LLM Token Cut** · Zero Enterprise Data Leak |
 | [**sovereign-agent-swarm**](https://github.com/Amz34/sovereign-agent-swarm) | Multi-Agent dialectic consensus mesh with adversarial Red-Team vetoes, SRE hardware latency bounds & auto-synthesis. | **Dialectic Consensus** · Zero-Human Token Burn · Red-Team Veto Authority |
 | [**deep-research-engine**](https://github.com/Amz34/deep-research-engine) | Autonomous AI research engine decomposing trending systems topics into publication-grade whitepapers. | **100% Autonomous Cycles** · Live HN & arXiv Real-Time Ingestion |
-| [**primavera-p6-ai-orchestrator**](https://github.com/Amz34/primavera-p6-ai-orchestrator) | Automated 5-level WBS synthesis, 14-point DCMA audit validation, and budget balancing for capital megaprojects. | **10 Mins vs 7 Days** Turnaround · 100% Audit Compliance |
+| [**p6-ai-orchestrator**](https://github.com/Amz34/p6-ai-orchestrator) | Automated 5-level WBS synthesis, 14-point DCMA audit validation, and budget balancing for capital megaprojects. | **10 Mins vs 7 Days** Turnaround · 100% Audit Compliance |
 | [**leetcode-solutions**](https://github.com/Amz34/leetcode-solutions) | Automated 24/7 algorithmic solutions vault syncing LeetCode with Polyglot Python/C++/Rust testbenches. | **Multi-Language CI** · Continuous Headless Chromium Sync |
 
 <p align="center">
@@ -82,7 +82,7 @@ Engineered on deterministic algorithmic fundamentals. Polyglot execution across 
   <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/⚡_Follow_on_LeetCode-amz34-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Follow on LeetCode" /></a>
 </p>
 
-- **Production Algorithmic Vault**: Maintained at [`leetcode-solutions`](https://github.com/Amz34/leetcode-solutions) with 24/7 automated continuous synchronization.
+- **Production Algorithmic Vault**: Maintained at `Amz34/leetcode-solutions` with 24/7 automated continuous synchronization.
 - **Engineering Philosophy**: *"Never let an agent guess what deterministic code can verify."* Grounding LLMs in static AST verification, binary analysis, and sub-millisecond data structures.
 
 ---
