@@ -15,11 +15,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aamirzameer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://bsky.app/profile/amz34.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
-  <a href="https://t.me/AzGem_Bot"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://hub.xerj.org/contributors/Amz34"><img src="https://img.shields.io/badge/XERJ_Contributor-6366F1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="XERJ Contributor" /></a>
   <a href="https://amz34.github.io/azksa-links/"><img src="https://img.shields.io/badge/AZ_Links-111827?style=for-the-badge&logo=linktree&logoColor=white" alt="AZ Links" /></a>
-  <br />
   <a href="mailto:aamir1zahran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br />
   <a href="https://amz34.github.io"><img src="https://img.shields.io/badge/Portfolio-090A0F?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/amz34/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://github.com/az-consultants-org/az-consultants-hub/issues/new?template=audit_intake.yml"><img src="https://img.shields.io/badge/Book_Diagnostic-238636?style=for-the-badge&logo=github&logoColor=white" alt="Book Diagnostic" /></a>
@@ -104,8 +103,7 @@ Az. Consultancy provides high-impact engineering leadership and fractional archi
 
 **Direct Channels:**
 - **LinkedIn:** [linkedin.com/in/aamirzameer](https://linkedin.com/in/aamirzameer)
-- **Bluesky:** [bsky.app/profile/amz34.bsky.social](https://bsky.app/profile/amz34.bsky.social)
-- **Telegram:** [t.me/AzGem_Bot](https://t.me/AzGem_Bot)
+- **XERJ Contributor:** [hub.xerj.org/contributors/Amz34](https://hub.xerj.org/contributors/Amz34)
 - **AZ Links:** [amz34.github.io/azksa-links](https://amz34.github.io/azksa-links/)
 - **GitHub:** [github.com/Amz34](https://github.com/Amz34)
 - **LeetCode:** [leetcode.com/u/amz34](https://leetcode.com/u/amz34/)
